@@ -1,0 +1,20 @@
+PODS:
+  - PocketSVG (2.4.2)
+  - ReachabilitySwift (4.3.0)
+
+DEPENDENCIES:
+  - PocketSVG (~> 2.0)
+  - ReachabilitySwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - PocketSVG
+    - ReachabilitySwift
+
+SPEC CHECKSUMS:
+  PocketSVG: c30139829206a43df2ec203880e3970531facba7
+  ReachabilitySwift: 408477d1b6ed9779dba301953171e017c31241f3
+
+PODFILE CHECKSUM: 7a63f30a3ac72540a3dd420ce219a5230618271f
+
+COCOAPODS: 1.5.3
